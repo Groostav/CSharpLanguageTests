@@ -1,0 +1,16 @@
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\CSharpLanguageTests.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\CSharpLanguageTests.pdb
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\AutoMapper.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\Castle.Core.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\FakeItEasy.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\FluentAssertions.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\nunit.framework.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\AutoMapper.xml
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\Castle.Core.xml
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\FakeItEasy.xml
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\FluentAssertions.pdb
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\FluentAssertions.xml
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\bin\Debug\nunit.framework.xml
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\obj\Debug\CSharpLanguageTests.csprojResolveAssemblyReference.cache
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\obj\Debug\CSharpLanguageTests.dll
+D:\Users\Geoff\Code\CSharpLanguageTests\CSharpLanguageTests\CSharpLanguageTests\obj\Debug\CSharpLanguageTests.pdb
