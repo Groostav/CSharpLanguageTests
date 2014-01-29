@@ -6,6 +6,7 @@ namespace CSharpLanguageTests
 {
     public class usingDotNetEvents
     {
+
         [TestFixture]
         public class Testing
         {
@@ -14,7 +15,7 @@ namespace CSharpLanguageTests
             {
                 var bus = new EventBus();
 
-                bus.LightningBolt += subscribingMethod;
+                bus.specificSubscriber += subscribingMethod;
 
                 var @event = new MyEvent();
                 bus.publish(@event);
@@ -37,11 +38,11 @@ namespace CSharpLanguageTests
         // Base class event publisher 
         public class EventBus
         {
-            public event Action<MyEvent> LightningBolt;
+            public event Action<MyEvent> specificSubscriber;
 
             public void publish(MyEvent e)
             {
-                LightningBolt(e);
+                specificSubscriber(e);
             }
         } 
     }

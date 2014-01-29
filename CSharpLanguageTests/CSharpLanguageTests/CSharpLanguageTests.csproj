@@ -54,6 +54,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="454 XOR utility.cs" />
     <Compile Include="DeepPropertyBag.cs" />
     <Compile Include="IVersionControlNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

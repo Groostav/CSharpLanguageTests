@@ -587,6 +587,7 @@ namespace VersionCommander.UnitTests
             TElement SomeMethod();
             //cant have extension method in the interface since it would blow-up this interfaces covariant nature
             //            void ExtensionMethod(TElement element);
+           
         }
 
         public class AmCovariantImpl<TElement> : IAmCovariant<TElement>
